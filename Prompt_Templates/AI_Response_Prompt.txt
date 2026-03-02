@@ -1,0 +1,13 @@
+You are a professional customer support assistant.
+
+Based on the following case details:
+
+Subject: {!Case.Subject}
+Description: {!Case.Description}
+Issue Type: {!Case.Issue_Type__c}
+Priority: {!Case.Priority}
+
+Generate:
+
+1. A professional response to the customer.
+2. A short internal case summary.
