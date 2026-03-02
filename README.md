@@ -85,6 +85,13 @@ The system automates customer case handling by generating AI-powered responses a
 
 ---
 
+## 📄 Additional Documentation
+
+- [Stakeholder Mapping](Stakeholder_Mapping.md)
+
+---
+
 ## 👨‍💻 Author
 Sharad Shelke  
 Salesforce Administrator Trainee  
+
