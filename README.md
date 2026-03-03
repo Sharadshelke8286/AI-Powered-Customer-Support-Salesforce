@@ -89,6 +89,7 @@ The system automates customer case handling by generating AI-powered responses a
 
 - [Stakeholder Mapping](Stakeholder_Mapping.md)
 - [Execution Roadmap](Execution_Roadmap.md)
+- [Salesforce Account Setup](Backend_Salesforce_Account_Setup.md)
 
 ---
 
