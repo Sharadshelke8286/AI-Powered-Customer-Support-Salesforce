@@ -76,7 +76,15 @@ The system automates customer case handling by generating AI-powered responses a
 ---
 
 ## 📸 Screenshots
-(Available inside Screenshots folder)
+![Signup Form](Screenshots/Case_Object.png)
+![Account Verification](Screenshots/Custom_Fields.png)
+![Salesforce Home](Screenshots/Prompt_Builder.png)
+![Signup Form](Screenshots/AI_Response.png)
+![Account Verification](Screenshots/Flow_Builder.png)
+![Salesforce Home](Screenshots/Lightning_Record_Page.png)
+![Salesforce Home](Screenshots/Dashboard.png)
+![Signup Form](Screenshots/Signup_Form.png)
+![Salesforce Home](Screenshots/Salesforce_Home.png)
 
 ---
 
