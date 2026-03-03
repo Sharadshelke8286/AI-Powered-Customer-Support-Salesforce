@@ -77,7 +77,7 @@ The system automates customer case handling by generating AI-powered responses a
 
 ## 📸 Screenshots
 ![Case_Object](Screenshots/Case_Object.png)
-![Case_Object](Screenshots/Case_Object.png)
+![Custom_Fields](Screenshots/Custom_Fields.png)
 ![Prompt_Builder](Screenshots/Prompt_Builder.png)
 ![AI_Response](Screenshots/AI_Response.png)
 ![Flow_Builder](Screenshots/Flow_Builder.png)
