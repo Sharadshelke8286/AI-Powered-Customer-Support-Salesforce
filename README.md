@@ -91,6 +91,11 @@ The system automates customer case handling by generating AI-powered responses a
 ![Merchandise_Field](Screenshots/Merchandise_Field.png)
 ![Order_Field](Screenshots/Order_Field.png)
 ![User_Cases_Field](Screenshots/User_Cases_Field.png)
+![Queues](Screenshots/Queues.png)
+![Damage Requires Priority](Screenshots/Validation_Damage_Requires_Priority.png)
+![Warranty Delivery Requires Priority](Screenshots/Warranty_Delivery_Requires_Priority.png)
+![Auto_Assign_Case_to_Queue](Screenshots/Auto_Assign_Case_to_Queue.png)
+![Case_Auto_Assignment_and_SLA_Flow](Screenshots/Case_Auto_Assignment_and_SLA_Flow.png)
 
 ---
 
