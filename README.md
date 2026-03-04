@@ -87,6 +87,10 @@ The system automates customer case handling by generating AI-powered responses a
 ![Salesforce Home](Screenshots/Salesforce_Home.png)
 ![Steps to Implement](Screenshots/Steps_to_Implement.png)
 ![Tabs](Screenshots/Tabs.png)
+![Customer_Field](Screenshots/Customer_Field.png)
+![Merchandise_Field](Screenshots/Merchandise_Field.png)
+![Order_Field](Screenshots/Order_Field.png)
+![User_Cases_Field](Screenshots/User_Cases_Field.png)
 
 ---
 
