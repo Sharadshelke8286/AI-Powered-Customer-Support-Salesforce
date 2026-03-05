@@ -97,6 +97,9 @@ The system automates customer case handling by generating AI-powered responses a
 ![Auto_Assign_Case_to_Queue](Screenshots/Auto_Assign_Case_to_Queue.png)
 ![Case_Auto_Assignment_and_SLA_Flow](Screenshots/Case_Auto_Assignment_and_SLA_Flow.png)
 ![The_Lightning_App_Creation](Screenshots/The_Lightning_App_Creation.png)
+![Create Prompt Template](Screenshots/Create_Prompt_Template.png)
+![Open_Student_Record](Screenshots/Open_Student_Record.png)
+![Assign_the_Prompt_Template_to_the_Field](Screenshots/Assign_the_Prompt_Template_to_the_Field.png)
 
 ---
 
