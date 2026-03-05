@@ -96,6 +96,7 @@ The system automates customer case handling by generating AI-powered responses a
 ![Warranty Delivery Requires Priority](Screenshots/Warranty_Delivery_Requires_Priority.png)
 ![Auto_Assign_Case_to_Queue](Screenshots/Auto_Assign_Case_to_Queue.png)
 ![Case_Auto_Assignment_and_SLA_Flow](Screenshots/Case_Auto_Assignment_and_SLA_Flow.png)
+![The_Lightning_App_Creation](Screenshots/The_Lightning_App_Creation.png)
 
 ---
 
